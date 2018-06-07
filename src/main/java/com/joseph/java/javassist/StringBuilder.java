@@ -1,7 +1,7 @@
 package com.joseph.java.javassist;
 
 /**
- * Created by dys09435 on 2016/10/24.
+ * Created by Joseph on 2016/10/24.
  */
 public class StringBuilder {
 

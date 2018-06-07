@@ -8,7 +8,7 @@ import javassist.bytecode.MethodInfo;
 import java.io.IOException;
 
 /**
- * Created by dys09435 on 2016/10/24.
+ * Created by Joseph on 2016/10/24.
  * java -cp E:\\javassist-3.18.1-GA.jar;. com.joseph.java.javassist.JavassistTiming com.joseph.java.javassist.StringBuilder buildString
  */
 public class JavassistTiming {
